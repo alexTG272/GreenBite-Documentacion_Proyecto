@@ -1,0 +1,4 @@
+Suscripciones - https://github.com/Ferxyss/GreenBite-Suscripciones.git
+Productos - https://github.com/Ferxyss/GreenBite-Productos.git
+BFF - https://github.com/Ferxyss/GreenBite-BFF.git
+Frontend - https://github.com/Ferxyss/GreenBite-Frontend.git

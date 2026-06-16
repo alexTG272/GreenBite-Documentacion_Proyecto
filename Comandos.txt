@@ -1,0 +1,12 @@
+Iniciar Docker 
+docker compose up -d
+
+Iniciar microservicios
+./mvnw spring-boot:run
+
+Ejecutar test
+.\mvnw.cmd test
+.\mvnw.cmd clean test
+
+Ejecutar React
+npm run dev
